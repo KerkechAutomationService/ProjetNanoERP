@@ -1,4 +1,4 @@
-# ProjetNanoERP
+﻿# ProjetNanoERP
 A tiny software who is able to manage stock and your billing
 
 ## Descriptif du logiciel
@@ -12,4 +12,8 @@ ProjetNanoERP est un système de gestion d’hôtel multiactivité, qui traite t
 * Gérer informatiquement les stocks et plus particulièrement les entrées et  les sorties
 * Connaître le contenu des stocks en temps réel et obtenir un historique des mouvements de stocks
 * Connaître les ventes effectuées au niveau de la cafeteria en temps réel et obtenir un historique des revenus
+
+## Prototypage
+Les maquettes sont réalisés à l'aide du logiciel open-source Pencil (https://pencil.evolus.vn/). Pour les modifier il faut ouvrir les fichiers .epzg  (dans src/maquettes) en utilisant cet outil.
+Pour voir les maquettes il faut extraire les fichiers présents dans doc/maquettes et ouvrir les fichiers .html avec le navigateur.
 
